@@ -1,0 +1,20 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+ <id>urn:iweb:2440B796-173B-403F-86ED-9CEE2CDA79B4</id>
+ <title>Page list Atom feed</title>
+ <updated>2012-03-18T20:42:36-07:00</updated>
+ <link rel="self" href="feed.xml"/>
+ <generator>iWeb</generator>
+ <author>
+  <name>iWeb</name>
+ </author>
+ <entry>
+  <id>urn:iweb:99FAB683-2327-446C-BF18-2FD169CB5970</id>
+  <title>Cake Blankets</title>
+  <title xmlns="urn:iweb:">Cake Blankets</title>
+  <in-navbar xmlns="urn:iweb:">99FAB683-2327-446C-BF18-2FD169CB5970</in-navbar>
+  <link rel="alternate" href="Cake_Blankets.html"/>
+  <updated>2012-03-18T20:42:36.001-07:00</updated>
+  <content>Cake Blankets</content>
+ </entry>
+</feed>
